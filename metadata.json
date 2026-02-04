@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of JeevanSathi AI Health Assistant",
+  "description": "A friendly, multilingual AI health assistant designed for rural and semi-urban communities to promote preventive healthcare, maternal health, and vaccination awareness.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
